@@ -1,1 +1,1 @@
-web: java src/Main.java
+web: java src/oh/Main.java
